@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is  Wilson Mutuaand I'm a Software Engineer | Full Stack Developer from Kenya</h2>
+<h2 align="left">Hi 👋! My name is  Wilson Mutua I'm a Software Engineer | Full Stack Developer from Kenya</h2>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Willie-theBeastMutua/count.svg?"  />
+</div>
 
 ###
 
@@ -52,11 +58,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Willie-theBeastMutua/Willie-theBeastMutua/output/snake.svg" alt="Snake animation" />
 
 ###
