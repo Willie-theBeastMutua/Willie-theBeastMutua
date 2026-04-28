@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Wilson Mutua</h1> <h3 align="center"> Full Stack Software Engineer | React • TypeScript • Node.js • PHP • Python </h3> <p align="center"> I build scalable web applications, health information systems, SaaS platforms, and data-driven tools that solve real-world problems. </p> <p align="center"> <a href="mailto:willymathuva@gmail.com"> <img src="https://img.shields.io/badge/Email-willymathuva%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/wilson-mutua-740b04168/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Wilson%20Mutua-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Willie-theBeastMutua" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Willie--theBeastMutua-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://wilson-mutua.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
+
+📊 GitHub Stats
+<p align="center"> <img src="https://profile-counter.glitch.me/Willie-theBeastMutua/count.svg?" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Willie-theBeastMutua&theme=tokyonight&hide_border=true" height="180" /> <img src="https://github-readme-stats.vercel.app/api?username=Willie-theBeastMutua&show_icons=true&theme=tokyonight&hide_border=true" height="180" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willie-theBeastMutua&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" /> </p>
+
 👨‍💻 About Me
 
 I am a Full Stack Software Engineer from Kenya with 4+ years of experience building production-grade systems across healthcare, agritech, SaaS, and data platforms.
@@ -35,21 +39,5 @@ Databases MySQL, PostgreSQL, MongoDB, Supabase
 Systems EMRs, dashboards, SaaS, APIs, reporting tools
 DevOps Docker, Git, Linux, CI/CD, deployments
 
-📊 GitHub Stats
-<p align="center"> <img src="https://profile-counter.glitch.me/Willie-theBeastMutua/count.svg?" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Willie-theBeastMutua&theme=tokyonight&hide_border=true" height="180" /> <img src="https://github-readme-stats.vercel.app/api?username=Willie-theBeastMutua&show_icons=true&theme=tokyonight&hide_border=true" height="180" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willie-theBeastMutua&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" /> </p>
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Willie-theBeastMutua&theme=tokyo-night&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://ghchart.rshah.org/Willie-theBeastMutua" alt="GitHub Contributions" />
-</p>
-
-### <br clear="both"> <div align="center"> <img src="https://streak-stats.demolab.com?user=Willie-theBeastMutua&locale=en&mode=weekly&theme=vision-friendly-dark&hide_border=true&border_radius=5" height="200" alt="streak graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Willie-theBeastMutua&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=chartreuse-dark&hide_border=true" height="200" alt="languages graph" /> </div> ###
-
-📈 Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Willie-theBeastMutua&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
 🤝 Connect With Me
 <p align="center"> <a href="mailto:willymathuva@gmail.com">Email</a> • <a href="https://www.linkedin.com/in/wilson-mutua-740b04168/">LinkedIn</a> • <a href="https://github.com/Willie-theBeastMutua">GitHub</a> </p>
