@@ -37,6 +37,15 @@ DevOps Docker, Git, Linux, CI/CD, deployments
 
 📊 GitHub Stats
 <p align="center"> <img src="https://profile-counter.glitch.me/Willie-theBeastMutua/count.svg?" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Willie-theBeastMutua&theme=tokyonight&hide_border=true" height="180" /> <img src="https://github-readme-stats.vercel.app/api?username=Willie-theBeastMutua&show_icons=true&theme=tokyonight&hide_border=true" height="180" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willie-theBeastMutua&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" /> </p>
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Willie-theBeastMutua&theme=tokyo-night&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/Willie-theBeastMutua" alt="GitHub Contributions" />
+</p>
 📈 Profile Views
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Willie-theBeastMutua&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
 🤝 Connect With Me
